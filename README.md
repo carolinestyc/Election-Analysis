@@ -8,6 +8,7 @@ Tom and Seth with the Colorado Board of Elections has requested assistance with 
 3. Total number of votes each candidate received.
 4. Percentage of votes each candidate won.
 5. The winner of the election based on popular vote.
+
 After the initial analysis was shared with the Election Commission, they requested some additional information regarding the counties. They want to know the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. This additional audit information will be communicated to the election commission per their request. 
 ## Resources
 
