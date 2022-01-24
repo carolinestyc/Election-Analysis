@@ -12,6 +12,7 @@ Tom and Seth with the Colorado Board of Elections has requested assistance with 
 After the initial analysis was shared with the Election Commission, they requested some additional information regarding the counties. They want to know the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout. This additional audit information will be communicated to the election commission per their request. 
 ## Resources
 Data Source: election_results.csv
+
 Software: Python 3.9.7, Visual Studio Code 1.63.2
 ## Summary
 The initial analysis of the election shows that:
@@ -33,3 +34,11 @@ Now that we know the general results by candidate, the Election Commission wants
 
 This information will then be shared with Seth & Tom to communicate appropriately to the Election Commission.
 ## Challenge Summary
+The additional analysis found new details to be shared with the Commission.
+* Voter turnout by county:
+   
+   Jefferson: 38,855 votes (10.51%)
+   Denver: 306,055 votes (82.78%)
+   Arapahoe: 24,801 votes (6.71%)
+   
+* Showing us that Denver County had the highest voter turnout with 82.78% of the total vote count across 3 counties.
