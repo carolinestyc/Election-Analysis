@@ -16,10 +16,9 @@ After the initial analysis was shared with the Election Commission, they request
 
 This information will then be shared with Seth & Tom to communicate appropriately to the Elections Commission.
 ## Resources
-Data Source: election_results.csv
+            Data Source: election_results.csv
 
-Software:   
-            
+            Software:
             Python 3.9.7
             
             Visual Studio Code 1.63.2
