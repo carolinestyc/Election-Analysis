@@ -38,7 +38,8 @@ The analysis of the election shows that:
    
    Arapahoe: 24,801 votes (6.71%)
 * Denver County had the highest voter turnout with 82.78% of the total vote count.
-These results can also be visulized in the tx file and terminal when the PyPoll_Challenge.py file is run.
+These results can also be visulized in the txt file and terminal when the PyPoll_Challenge.py file is run.
+
 ![Election Analysis Termintal Output](https://user-images.githubusercontent.com/96352625/150733540-b59ca4ad-2534-415b-a322-b0f5365f41be.png)
 ![Election Analysis txt Output](https://user-images.githubusercontent.com/96352625/150733549-2a5f605b-b836-4852-8a9e-df2185879ae4.png)
 ## Election Audit Summary
