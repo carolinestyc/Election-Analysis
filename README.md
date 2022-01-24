@@ -38,10 +38,9 @@ The analysis of the election shows that:
    
    Arapahoe: 24,801 votes (6.71%)
 * Denver County had the highest voter turnout with 82.78% of the total vote count.
-These results can also be visulized in the txt file and terminal when the PyPoll_Challenge.py file is run.
+These results can also be visulized in the txt file (first image below) and terminal (second image below) when the PyPoll_Challenge.py file is run.
 
 ![Election Analysis Termintal Output](https://user-images.githubusercontent.com/96352625/150733540-b59ca4ad-2534-415b-a322-b0f5365f41be.png)
 ![Election Analysis txt Output](https://user-images.githubusercontent.com/96352625/150733549-2a5f605b-b836-4852-8a9e-df2185879ae4.png)
 ## Election Audit Summary
 Using Python to perform the election audit is more efficient and repeatable for any future elections and audits. This code can be easily modfied to use again in future scenarios. This is a pretty simple data set; most election data will have the same information: Ballot ID, County Name, Candidate Name (the person that received the vote). As elections are managed at the local county level, this is standard information. Therefore, this code can be used with other datasets, even ones with more counties or candidates. Beyond the local level, if one wanted to analyze results at the national level and look state by state, the county portion of this code could be modified to analyze states. Additionally, most elections require candidates to declare a party affiliation (Republican (R), Democrat (D), etc.). If the information is not provided but we know the candidates affiliation, the data set can be appended to include that information in a new column. With this data, one could look beyond individual candidate and more generally at party affiliation. For instance, how many votes each party received by county could be added as additional analysis. With these two (2) modifications and many more that aren't discussed here, the benefits of investing in Python as an analytical tool are nearly endless. Election results are pure data, and this code (even with small modifications) will deliver analysis in the most efficient way.
-
