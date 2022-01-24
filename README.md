@@ -24,8 +24,12 @@ The initial analysis of the election shows that:
    Diana DeGette: 272,892 votes (73.81%)
    
    Raymon Anthony Doane: 11,606 votes (3.14%)
-* The Winner of the election is Diana DeGette who received 73.81% of the total vote with 272,892 votes.
-
+* The Winner of the election is Diana DeGette who received 73.81% of the total vote count with 272,892 votes.
 ## Challenge Overview
+Now that we know the general results by candidate, the Election Commission wants to know more information regarding the results by county. There are three (3) additional points of information that they requested:
+1. The voter turnout for each county.
+2. The percentage of votes from each county of the total count.
+3. The county with the highest turnout.
 
+This information will then be shared with Seth & Tom to communicate appropriately to the Election Commission.
 ## Challenge Summary
